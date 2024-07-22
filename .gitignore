@@ -1,0 +1,7 @@
+# Standard ignores for Python projects
+*.pyc
+*.pyo
+*.so
+*.egg-info
+*.egg-info/*
+*.egg-info/**
